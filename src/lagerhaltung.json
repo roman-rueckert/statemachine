@@ -1,0 +1,33 @@
+{
+  "Lager_Name": "Lager 1",
+  "Anzahl Lagerplätze": 100,
+  "Regale": [
+    {
+      "Regal": 1,
+      "Anzahl Lagerplätze": 40,
+      "Inhalt": [
+        "Fernseher",
+        "Radios",
+        "SAT-Anlage"
+      ]
+    },
+    {
+      "Regal": 2,
+      "Anzahl Lagerplätze": 30,
+      "Inhalt": [
+        "Fernseher",
+        "Radios",
+        "SAT-Anlage"
+      ]
+    },
+    {
+      "Regal": 3,
+      "Anzahl Lagerplätze": 30,
+      "Inhalt": [
+        "Fernseher",
+        "Radios",
+        "SAT-Anlage"
+      ]
+    }
+  ]
+}
